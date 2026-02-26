@@ -21,5 +21,5 @@ LinkedIn: https://www.linkedin.com/in/fawaz-bulbulia-549058358?utm_source=share_
 
 ⚡ Fun Facts
 
-Love cars, racing & high-adrenaline challenges
+Love cars, racing & high-adrenaline challenges.  
 Building toward a future in AI engineering & consulting
