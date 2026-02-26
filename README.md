@@ -6,11 +6,11 @@ I build intelligent systems, solve real-world problems with code, and explore th
 
 🚀 What I Do
 
-AI & Machine Learning projects
-System & Network Security
-C++ development
-Linux system administration
-Problem solving & algorithm design
+AI & Machine Learning projects. 
+System & Network Security. 
+C++ development. 
+Linux system administration. 
+Problem solving & algorithm design. 
 
 🛠️ Tools & Technologies
  C++ | Linux | Git | Networking | Cloud Basics
