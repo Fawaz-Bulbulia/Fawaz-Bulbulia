@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Fawaz
 
-<!--
-**Fawaz-Bulbulia/Fawaz-Bulbulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student | AI & Security Enthusiast
 
-Here are some ideas to get you started:
+I build intelligent systems, solve real-world problems with code, and explore the future of Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 What I Do
+
+AI & Machine Learning projects
+System & Network Security
+C++ development
+Linux system administration
+Problem solving & algorithm design
+
+🛠️ Tools & Technologies
+ C++ | Linux | Git | Networking | Cloud Basics
+
+📫 Reach Me
+
+LinkedIn: https://www.linkedin.com/in/fawaz-bulbulia-549058358?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+
+⚡ Fun Facts
+Love cars, racing & high-adrenaline challenges
+Building toward a future in AI engineering & consulting
